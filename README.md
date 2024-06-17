@@ -2,6 +2,6 @@
 
 # Links
 **[Personal site](https://crystalmoon.neocities.org/)**<br>
-**[YouTube](https://www.youtube.com/channel/UCJGNmATFcw-0zfF3DjpleDQ)**<br>
-**[itch.io](https://itch.io/)**<br>
-**[GitHub Gists](https://gist.github.com/win-ini)**
+**[YouTube](https://crystalmoon.neocities.org/redirs/yt.html)**<br>
+**[itch.io](https://crystalmoon.neocities.org/redirs/itch.html)**<br>
+**[GitHub Gists](https://crystalmoon.neocities.org/redirs/gist.html)**
