@@ -1,4 +1,4 @@
-<img src="./dlg/v3.png">
+<img src="./dlg/v4.png">
 
 # Links
 **[Personal site](https://crystalmoon.neocities.org/)**<br>
