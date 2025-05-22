@@ -1,5 +1,3 @@
-<img src="./dlg/v4.png">
-
 # Links
 **[Personal site](https://crystalmoon.neocities.org/)**<br>
 **[YouTube](https://crystalmoon.neocities.org/redirs/yt.html)**<br>
